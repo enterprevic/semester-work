@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest_Jammed.cpp
+\\Mac\Home\Downloads\Jammed 2\Jammed\Jammed.cpp(44): warning C4715: 'Combination::shift': not all control paths return a value
+     Creating library \\Mac\Home\Downloads\Jammed 2\x64\Debug\UnitTest_Jammed.lib and object \\Mac\Home\Downloads\Jammed 2\x64\Debug\UnitTest_Jammed.exp
+  UnitTest_Jammed.vcxproj -> \\Mac\Home\Downloads\Jammed 2\x64\Debug\UnitTest_Jammed.dll

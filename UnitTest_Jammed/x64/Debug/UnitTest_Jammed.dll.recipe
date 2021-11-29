@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>\\Mac\Home\Downloads\Jammed 2\x64\Debug\Jammed.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>\\Mac\Home\Downloads\Jammed 2\x64\Debug\UnitTest_Jammed.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
